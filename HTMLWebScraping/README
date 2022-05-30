@@ -1,0 +1,3 @@
+For this project I used Python to scrape data from Wikipedia's HTML. Using the BeautifulSoup I was able to gather the data from this page and format the table into a dataframe that would make it workable in Python. This project helped me learn how to gather data from other sources.
+
+I created this project as part of my Bellevue University Master's of Data Science degree. This project was completed on July 18th, 2021.
