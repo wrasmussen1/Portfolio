@@ -1,0 +1,4 @@
+For this project I used Python Jupyter Notebook and Tableau to complete an unsupervised learning project regarding wines. By using the chemical makeup of the wines, I was able to cluster them into groups using multiple algorithms. Once the wines were clustered I brought the data into Tableau where I was able to complete a series of visualizations that showed the wines in the clusters based on the different algorithms and chemicals.
+
+
+I created this project as part of my Bellevue University Master's of Data Science degree. This project was completed on May 7th, 2022.
