@@ -1,0 +1,3 @@
+I used Python Jupyter Notebook and a set of customer behavior data found on Kaggle. The data tracked many different features. Using feature reduction I reduced that down to 8 features and created classifier models that helped my determine to a 99.26% accuracy the customer behaviors. Using that model, I ran testing data that found users who had over 0.500 probability of completing the ordering process. This returned a list of about 1% of the users who visited the site and didn’t order yesterday.
+
+I created this project as part of my Bellevue University Master’s of Data Science degree. This project was completed on April 9, 2022.
